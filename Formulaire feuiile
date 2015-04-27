@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="fr">
+  
+  <head>
+	
+	<meta charset="utf-8">
+    <title>Excercises</title>
+    
+   </head>
+   <body>
+     
+        <form method="post"
+               action="unscript.php">
+      
+          <input type="texte"
+                 name="username">
+                 
+          <input type="submit"
+                 name="submit"
+                 value="S'engistrer">
+                 
+          <input type="password"
+                 name="password"
+                 value="S'engistrer">
+      
+        </forme>
+      </body>
+      
+      </html>

@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="fr">
+  
+  <head>
+	
+	<meta charset="utf-8">
+    <title>Ceci est mon premier formulaire</title>
+    
+   </head>
+   <body>
+	   Ceci est mon premier formulaire
+	   
+	   <br>
+     
+     <label>
+        
+        <form method="post"
+               action="unscript.php">
+       
+       </label>        
+               
+               <br>
+			
+			Entrez votre nom :
+          <input type="texte"
+                 name="username"
+                 step="50">
+                 
+                 
+                 <br>
+             
+             Entrez votre âge :    
+          <input type="number"
+                 name="age"
+                 min length="16"
+                 max length="29">
+                
+      
+				<br>
+				
+				Masculin
+		 <input type="checkbox"
+				name="OK">
+				
+				<br>
+				Féminin
+		 <input type="checkbox"
+				name="OK">
+				
+				<br>
+                 
+          <input type="submit"
+                 name="submit"
+                 value="S'engistrer">
+                 
+                 <br>
+                 
+                 Mon film préféré
+                 
+                 <br>
+                 
+          <input type="texte"
+				 name="Film"
+				 step="6">
+				
+				
+				
+			<input type="submit"
+				   name="submit"
+                   value="Envoyer">
+						
+						
+				
+      </body>
+      
+      </html>

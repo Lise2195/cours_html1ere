@@ -35,7 +35,8 @@
                  min length="16"
                  max length="29">
                 
-      
+      <form method="post"
+               action="unscript.php">
 				<br>
 				
 				Masculin
@@ -55,6 +56,11 @@
                  
                  <br>
                  
+          <form method="post"
+               action="unscript.php">
+               
+               <br>
+               
                  Mon film préféré
                  
                  <br>
